@@ -7,25 +7,25 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 Senior AI/ML Engineer with 9+ years of experience building production-grade AI systems across fintech, education, e-commerce, and financial services.
 
 I specialize in:
 
-* 🤖 Large Language Models (LLMs)
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 📈 Time-Series Forecasting
-* ☁️ Cloud-Native AI Infrastructure
-* ⚡ High-Performance Python Systems
-* 🔍 Explainable & Responsible AI
-* 🚀 Scalable ML Deployment Pipelines
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Time-Series Forecasting
+* Cloud-Native AI Infrastructure
+* High-Performance Python Systems
+* Explainable & Responsible AI
+* Scalable ML Deployment Pipelines
 
 I enjoy building intelligent systems that combine machine learning, scalable infrastructure, and modern AI engineering.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages & Backend
 
@@ -63,7 +63,7 @@ I enjoy building intelligent systems that combine machine learning, scalable inf
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=siimland442&theme=tokyonight&hide_border=true" />
@@ -71,7 +71,7 @@ I enjoy building intelligent systems that combine machine learning, scalable inf
 
 ---
 
-# 🧠 AI Engineering Focus Areas
+# AI Engineering Focus Areas
 
 ```text
 LLM Systems Architecture        ████████████████████ 95%
@@ -85,9 +85,9 @@ Time-Series Forecasting         ████████████████
 
 ---
 
-# 🏗 Featured Expertise
+# Featured Expertise
 
-## 🤖 LLM & GenAI Systems
+## LLM & GenAI Systems
 
 * GPT-4 & OpenAI API Integration
 * Enterprise RAG Architectures
@@ -99,7 +99,7 @@ Time-Series Forecasting         ████████████████
 
 ---
 
-## 📊 Machine Learning & Forecasting
+## Machine Learning & Forecasting
 
 * Demand Forecasting
 * Predictive Analytics
@@ -111,7 +111,7 @@ Time-Series Forecasting         ████████████████
 
 ---
 
-## ☁️ Cloud-Native Engineering
+## Cloud-Native Engineering
 
 * AWS Lambda & ECS
 * Dockerized Microservices
@@ -123,7 +123,7 @@ Time-Series Forecasting         ████████████████
 
 ---
 
-# 🏢 Professional Experience
+# Professional Experience
 
 | Company                | Role                | Duration       |
 | ---------------------- | ------------------- | -------------- |
@@ -147,6 +147,6 @@ University of Tartu
 
 ---
 
-# ⚡ Quote
+# Quote
 
 > “Building scalable AI systems that solve real-world problems with intelligence, reliability, and impact.”
