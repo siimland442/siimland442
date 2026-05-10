@@ -2,7 +2,7 @@
 
 ### Senior AI/ML Engineer | Python Developer | GenAI & LLM Specialist
 
-📍 Tallinn, Estonia
+📍 Tallinn, Estonia<br>
 📧 [siim.land16@outlook.com](mailto:siim.land16@outlook.com)
 
 ---
